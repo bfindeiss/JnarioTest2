@@ -1,0 +1,12 @@
+SMAP
+StackSpec.java
+Spec
+*S Spec
+*F
++ 0 StackSpec.spec
+test/specs/StackSpec.spec
+*L
+7:25,6
+10:37
+11:38,6
+*E

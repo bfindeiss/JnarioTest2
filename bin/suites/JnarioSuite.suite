@@ -1,0 +1,11 @@
+package suites
+
+import specs.*
+
+#My Suite
+
+## My Features
+- \features\..*\
+
+## My Specs
+- "Stack"
